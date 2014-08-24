@@ -74,5 +74,5 @@
         }
     });
 
-    grunt.registerTask("default", ["connect", "ts", "less:development", "watch"]);
+    grunt.registerTask("default", ["connect", "ts:dev", "less:development", "watch"]);
 };
