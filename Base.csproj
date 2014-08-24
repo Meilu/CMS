@@ -12,8 +12,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MVCTemplate</RootNamespace>
-    <AssemblyName>MVCTemplate</AssemblyName>
+    <RootNamespace>Base</RootNamespace>
+    <AssemblyName>Base</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -366,6 +366,7 @@
     <Content Include="Content\components\pure\pure.css" />
     <Content Include="Content\components\pure\tables-min.css" />
     <Content Include="Content\components\pure\tables.css" />
+    <Content Include="Content\css\main.css" />
     <Content Include="Content\GruntFile.js" />
     <Content Include="Content\ts\compiled\app.js" />
     <Content Include="Content\ts\main.ts" />
@@ -385,7 +386,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\css\" />
     <Folder Include="Content\img\compressed\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
@@ -396,9 +396,9 @@
     <Content Include="Content\package.json" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MVCTemplate.Library\MVCTemplate.Library.csproj">
+    <ProjectReference Include="..\Library\Base.Library.csproj">
       <Project>{929bd3c8-8104-4f44-9232-cecf15169ecf}</Project>
-      <Name>MVCTemplate.Library</Name>
+      <Name>Base.Library</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
