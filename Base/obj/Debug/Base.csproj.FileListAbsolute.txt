@@ -1,6 +1,3 @@
-D:\repositories\BaseTemplate\Base\bin\MVCTemplate.dll.config
-D:\repositories\BaseTemplate\Base\bin\MVCTemplate.dll
-D:\repositories\BaseTemplate\Base\bin\MVCTemplate.pdb
 D:\repositories\BaseTemplate\Base\bin\Microsoft.Web.Infrastructure.dll
 D:\repositories\BaseTemplate\Base\bin\Newtonsoft.Json.dll
 D:\repositories\BaseTemplate\Base\bin\Microsoft.Web.Infrastructure.xml
@@ -27,7 +24,10 @@ D:\repositories\BaseTemplate\Base\bin\Microsoft.Owin.Security.Google.xml
 D:\repositories\BaseTemplate\Base\bin\Microsoft.Owin.Security.Twitter.xml
 D:\repositories\BaseTemplate\Base\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\repositories\BaseTemplate\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
-D:\repositories\BaseTemplate\Base\obj\Debug\MVCTemplate.dll
-D:\repositories\BaseTemplate\Base\obj\Debug\MVCTemplate.pdb
-D:\repositories\BaseTemplate\Base\bin\MVCTemplate.Library.dll
-D:\repositories\BaseTemplate\Base\bin\MVCTemplate.Library.pdb
+D:\repositories\BaseTemplate\Base\bin\Base.dll.config
+D:\repositories\BaseTemplate\Base\bin\Base.dll
+D:\repositories\BaseTemplate\Base\bin\Base.pdb
+D:\repositories\BaseTemplate\Base\bin\Base.Library.dll
+D:\repositories\BaseTemplate\Base\bin\Base.Library.pdb
+D:\repositories\BaseTemplate\Base\obj\Debug\Base.dll
+D:\repositories\BaseTemplate\Base\obj\Debug\Base.pdb
