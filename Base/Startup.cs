@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(Frontend.Startup))]
-namespace Frontend
+[assembly: OwinStartupAttribute(typeof(Base.Startup))]
+namespace Base
 {
     public partial class Startup
     {
