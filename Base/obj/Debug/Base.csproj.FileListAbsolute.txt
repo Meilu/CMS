@@ -29,3 +29,5 @@ D:\repositories\BaseTemplate\Base\bin\Microsoft.Owin.Security.MicrosoftAccount.x
 D:\repositories\BaseTemplate\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
 D:\repositories\BaseTemplate\Base\obj\Debug\MVCTemplate.dll
 D:\repositories\BaseTemplate\Base\obj\Debug\MVCTemplate.pdb
+D:\repositories\BaseTemplate\Base\bin\MVCTemplate.Library.dll
+D:\repositories\BaseTemplate\Base\bin\MVCTemplate.Library.pdb
