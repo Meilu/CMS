@@ -1,0 +1,6 @@
+D:\Visual studio projects\MVCTemplate\MVCTemplate.Library\bin\MVCTemplate.Library.dll.config
+D:\Visual studio projects\MVCTemplate\MVCTemplate.Library\bin\MVCTemplate.Library.dll
+D:\Visual studio projects\MVCTemplate\MVCTemplate.Library\bin\MVCTemplate.Library.pdb
+D:\Visual studio projects\MVCTemplate\MVCTemplate.Library\obj\Debug\MVCTemplate.Library.csprojResolveAssemblyReference.cache
+D:\Visual studio projects\MVCTemplate\MVCTemplate.Library\obj\Debug\MVCTemplate.Library.dll
+D:\Visual studio projects\MVCTemplate\MVCTemplate.Library\obj\Debug\MVCTemplate.Library.pdb
