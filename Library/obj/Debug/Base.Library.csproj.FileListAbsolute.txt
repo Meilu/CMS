@@ -1,6 +1,0 @@
-D:\repositories\BaseTemplate\Library\obj\Debug\Base.Library.csprojResolveAssemblyReference.cache
-D:\repositories\BaseTemplate\Library\bin\Base.Library.dll.config
-D:\repositories\BaseTemplate\Library\bin\Base.Library.dll
-D:\repositories\BaseTemplate\Library\bin\Base.Library.pdb
-D:\repositories\BaseTemplate\Library\obj\Debug\Base.Library.dll
-D:\repositories\BaseTemplate\Library\obj\Debug\Base.Library.pdb
