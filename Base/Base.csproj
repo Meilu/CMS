@@ -396,12 +396,6 @@
     <Content Include="Content\package.json" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Library\Base.Library.csproj">
-      <Project>{929bd3c8-8104-4f44-9232-cecf15169ecf}</Project>
-      <Name>Base.Library</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="copyifnewer.bat" />
     <Content Include="Content\.bowerrc" />
     <Content Include="Content\components\jquery\.bower.json" />
