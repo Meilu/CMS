@@ -168,6 +168,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\components\font-awesome\.gitignore" />
     <Content Include="Content\components\font-awesome\css\font-awesome.css" />
     <Content Include="Content\components\font-awesome\css\font-awesome.min.css" />
     <Content Include="Content\components\font-awesome\fonts\fontawesome-webfont.svg" />
@@ -256,6 +257,7 @@
     <Content Include="Content\components\jquery\src\var\support.js" />
     <Content Include="Content\components\jquery\src\var\toString.js" />
     <Content Include="Content\components\jquery\src\wrap.js" />
+    <Content Include="Content\components\knockout-mapping\.gitignore" />
     <Content Include="Content\components\knockout-mapping\build\output\knockout.mapping-latest.debug.js" />
     <Content Include="Content\components\knockout-mapping\build\output\knockout.mapping-latest.js" />
     <Content Include="Content\components\knockout-mapping\build\tools\curl.exe" />
@@ -398,25 +400,10 @@
   <ItemGroup>
     <Content Include="copyifnewer.bat" />
     <Content Include="Content\.bowerrc" />
-    <Content Include="Content\components\jquery\.bower.json" />
-    <Content Include="Content\components\jquery\bower.json" />
-    <Content Include="Content\components\jquery\dist\jquery.min.map" />
-    <Content Include="Content\components\jquery\src\sizzle\dist\sizzle.min.map" />
-    <Content Include="Content\components\knockout\.bower.json" />
-    <Content Include="Content\components\knockout\bower.json" />
-    <Content Include="Content\components\knockout\LICENSE" />
-    <Content Include="Content\components\knockout\package.json" />
-    <Content Include="Content\components\knockout\README.md" />
     <Content Include="Content\ts\compiled\app.js.map" />
-    <Content Include="Content\components\knockout-mapping\.bower.json" />
-    <Content Include="Content\components\knockout-mapping\.gitignore" />
-    <Content Include="Content\components\knockout-mapping\build\build-linux" />
-    <Content Include="Content\components\knockout-mapping\HISTORY.md" />
-    <Content Include="Content\components\knockout-mapping\Package.nuspec" />
-    <Content Include="Content\components\knockout-mapping\README.md" />
-    <None Include="Content\bower.json" />
+    <Content Include="Content\less\main.less" />
+    <Content Include="Content\bower.json" />
     <Content Include="Content\components\font-awesome\.bower.json" />
-    <Content Include="Content\components\font-awesome\.gitignore" />
     <Content Include="Content\components\font-awesome\.npmignore" />
     <Content Include="Content\components\font-awesome\bower.json" />
     <Content Include="Content\components\font-awesome\fonts\fontawesome-webfont.eot" />
@@ -451,12 +438,25 @@
     <Content Include="Content\components\font-awesome\scss\_spinning.scss" />
     <Content Include="Content\components\font-awesome\scss\_stacked.scss" />
     <Content Include="Content\components\font-awesome\scss\_variables.scss" />
+    <Content Include="Content\components\jquery\.bower.json" />
+    <Content Include="Content\components\jquery\bower.json" />
+    <Content Include="Content\components\jquery\dist\jquery.min.map" />
+    <Content Include="Content\components\jquery\src\sizzle\dist\sizzle.min.map" />
+    <Content Include="Content\components\knockout-mapping\.bower.json" />
+    <Content Include="Content\components\knockout-mapping\build\build-linux" />
+    <Content Include="Content\components\knockout-mapping\HISTORY.md" />
+    <Content Include="Content\components\knockout-mapping\Package.nuspec" />
+    <Content Include="Content\components\knockout-mapping\README.md" />
+    <Content Include="Content\components\knockout\.bower.json" />
+    <Content Include="Content\components\knockout\bower.json" />
+    <Content Include="Content\components\knockout\LICENSE" />
+    <Content Include="Content\components\knockout\package.json" />
+    <Content Include="Content\components\knockout\README.md" />
     <Content Include="Content\components\pure\.bower.json" />
     <Content Include="Content\components\pure\bower.json" />
     <Content Include="Content\components\pure\HISTORY.md" />
     <Content Include="Content\components\pure\LICENSE.md" />
     <Content Include="Content\components\pure\README.md" />
-    <Content Include="Content\less\main.less" />
     <None Include="Web.config.debug" />
   </ItemGroup>
   <ItemGroup>
